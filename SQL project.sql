@@ -1,3 +1,5 @@
+-- Banking Managment System-- 
+
 USE banking_system;
 CREATE TABLE customers (
 customer_id INT PRIMARY KEY auto_increment,
